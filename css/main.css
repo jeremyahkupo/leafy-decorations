@@ -3,7 +3,7 @@ html {
 }
 
 .masthead {
-
+  background-image: url("../images/leaf-bg.svg");
 }
 
 .logo {
@@ -23,7 +23,7 @@ html {
 }
 
 .banner {
-
+  background-image: url("../images/banner.jpg");
 }
 
 .banner-content {
